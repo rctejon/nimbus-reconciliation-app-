@@ -1,0 +1,1282 @@
+[
+  {
+    "transaction_id": "TXN-00000",
+    "amount": 129.93,
+    "currency": "USD",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-25T20:14:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00001",
+    "amount": 3385.11,
+    "currency": "USD",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-19T03:37:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00002",
+    "amount": 153.84,
+    "currency": "USD",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-25T08:32:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00003",
+    "amount": 2808.42,
+    "currency": "USD",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-02T07:14:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00004",
+    "amount": 19431.1,
+    "currency": "BRL",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-22T05:44:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00005",
+    "amount": 6686.97,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-29T18:06:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00006",
+    "amount": 1952393.21,
+    "currency": "COP",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-02-10T04:16:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00007",
+    "amount": 10733837.27,
+    "currency": "COP",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-18T18:35:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00008",
+    "amount": 13867.02,
+    "currency": "BRL",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-17T08:42:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00009",
+    "amount": 23645.69,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-19T17:24:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00010",
+    "amount": 12720975.2,
+    "currency": "COP",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-22T08:23:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00011",
+    "amount": 63699.62,
+    "currency": "MXN",
+    "processor": "stripe",
+    "capture_timestamp": "2026-02-10T09:40:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00012",
+    "amount": 15606.9,
+    "currency": "MXN",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-26T22:59:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00013",
+    "amount": 65069.89,
+    "currency": "MXN",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-25T04:52:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00014",
+    "amount": 9642.93,
+    "currency": "BRL",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-24T10:58:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00015",
+    "amount": 5122.72,
+    "currency": "BRL",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-01T07:56:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00016",
+    "amount": 25237.13,
+    "currency": "MXN",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-08T08:34:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00017",
+    "amount": 17958501.21,
+    "currency": "COP",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-30T20:14:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00018",
+    "amount": 1836370.06,
+    "currency": "COP",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-20T02:09:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00019",
+    "amount": 11936252.43,
+    "currency": "COP",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-31T16:38:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00020",
+    "amount": 23306.6,
+    "currency": "BRL",
+    "processor": "stripe",
+    "capture_timestamp": "2026-02-13T10:46:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00021",
+    "amount": 18452.15,
+    "currency": "BRL",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-20T04:18:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00022",
+    "amount": 43158.38,
+    "currency": "MXN",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-02-05T18:48:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00023",
+    "amount": 4353.24,
+    "currency": "USD",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-02-11T16:32:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00024",
+    "amount": 14604.45,
+    "currency": "MXN",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-07T10:49:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00025",
+    "amount": 2996.73,
+    "currency": "USD",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-16T05:07:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00026",
+    "amount": 5765.87,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-08T14:05:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00027",
+    "amount": 16324144.6,
+    "currency": "COP",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-20T18:08:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00028",
+    "amount": 25253.87,
+    "currency": "MXN",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-02T11:13:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00029",
+    "amount": 67758.86,
+    "currency": "MXN",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-13T01:41:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00030",
+    "amount": 17994289.41,
+    "currency": "COP",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-20T13:15:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00031",
+    "amount": 1693.74,
+    "currency": "USD",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-08T01:14:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00032",
+    "amount": 782.41,
+    "currency": "MXN",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-25T04:04:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00033",
+    "amount": 1723.8,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-27T07:42:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00034",
+    "amount": 51273.3,
+    "currency": "MXN",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-09T00:30:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00035",
+    "amount": 16153790.02,
+    "currency": "COP",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-19T10:06:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00036",
+    "amount": 10180.3,
+    "currency": "BRL",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-17T17:43:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00037",
+    "amount": 2016.09,
+    "currency": "USD",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-20T01:15:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00038",
+    "amount": 50993.52,
+    "currency": "MXN",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-02T10:11:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00039",
+    "amount": 5011132.83,
+    "currency": "COP",
+    "processor": "stripe",
+    "capture_timestamp": "2026-02-03T07:51:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00040",
+    "amount": 257.69,
+    "currency": "USD",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-16T01:05:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00041",
+    "amount": 38668.69,
+    "currency": "MXN",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-24T12:55:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00042",
+    "amount": 827.36,
+    "currency": "USD",
+    "processor": "stripe",
+    "capture_timestamp": "2026-02-01T01:16:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00043",
+    "amount": 10166.6,
+    "currency": "BRL",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-12T15:45:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00044",
+    "amount": 18121.31,
+    "currency": "MXN",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-17T21:37:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00045",
+    "amount": 3741.14,
+    "currency": "USD",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-17T13:37:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00046",
+    "amount": 5497.87,
+    "currency": "MXN",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-18T20:54:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00047",
+    "amount": 2977.2,
+    "currency": "USD",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-01T15:07:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00048",
+    "amount": 55039.42,
+    "currency": "MXN",
+    "processor": "stripe",
+    "capture_timestamp": "2026-02-10T20:05:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00049",
+    "amount": 22434.58,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-12T23:45:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00050",
+    "amount": 25306.82,
+    "currency": "MXN",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-13T01:41:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00051",
+    "amount": 6337220.38,
+    "currency": "COP",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-15T19:29:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00052",
+    "amount": 370.94,
+    "currency": "USD",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-06T00:16:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00053",
+    "amount": 21143.72,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-31T04:18:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00054",
+    "amount": 16678224.19,
+    "currency": "COP",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-02-10T12:51:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00055",
+    "amount": 3340.98,
+    "currency": "USD",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-28T04:59:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00056",
+    "amount": 25197.82,
+    "currency": "MXN",
+    "processor": "stripe",
+    "capture_timestamp": "2026-02-08T00:09:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00057",
+    "amount": 14525.8,
+    "currency": "BRL",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-24T02:43:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00058",
+    "amount": 5037402.62,
+    "currency": "COP",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-19T08:40:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00059",
+    "amount": 1081.98,
+    "currency": "BRL",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-20T23:40:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00060",
+    "amount": 70442.81,
+    "currency": "MXN",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-02T15:35:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00061",
+    "amount": 380.84,
+    "currency": "USD",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-07T16:02:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00062",
+    "amount": 40886.76,
+    "currency": "MXN",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-28T13:23:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00063",
+    "amount": 5061.59,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-12T20:06:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00064",
+    "amount": 19477263.71,
+    "currency": "COP",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-25T12:55:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00065",
+    "amount": 83746.4,
+    "currency": "MXN",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-23T01:47:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00066",
+    "amount": 16048658.08,
+    "currency": "COP",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-26T19:10:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00067",
+    "amount": 17445892.32,
+    "currency": "COP",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-24T21:12:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00068",
+    "amount": 7341.95,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-24T22:01:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00069",
+    "amount": 6578673.78,
+    "currency": "COP",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-27T07:22:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00070",
+    "amount": 13596772.0,
+    "currency": "COP",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-29T13:01:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00071",
+    "amount": 4306.16,
+    "currency": "BRL",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-17T01:06:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00072",
+    "amount": 6926828.49,
+    "currency": "COP",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-02-03T00:38:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00073",
+    "amount": 1929.05,
+    "currency": "USD",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-23T12:16:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00074",
+    "amount": 53791.74,
+    "currency": "COP",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-13T17:46:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00075",
+    "amount": 10365.36,
+    "currency": "BRL",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-02-11T00:20:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00076",
+    "amount": 12183.26,
+    "currency": "BRL",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-29T08:25:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00077",
+    "amount": 18305.62,
+    "currency": "MXN",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-13T07:47:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00078",
+    "amount": 9760.65,
+    "currency": "BRL",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-28T09:18:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00079",
+    "amount": 15719461.37,
+    "currency": "COP",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-12T08:20:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00080",
+    "amount": 8854352.79,
+    "currency": "COP",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-06T05:30:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00081",
+    "amount": 1422.51,
+    "currency": "USD",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-29T17:05:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00082",
+    "amount": 5410.76,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-21T16:01:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00083",
+    "amount": 93475.53,
+    "currency": "MXN",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-18T12:29:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00084",
+    "amount": 68271.03,
+    "currency": "MXN",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-05T12:25:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00085",
+    "amount": 62359.91,
+    "currency": "MXN",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-19T23:49:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00086",
+    "amount": 16791.65,
+    "currency": "MXN",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-04T05:03:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00087",
+    "amount": 87167.9,
+    "currency": "MXN",
+    "processor": "stripe",
+    "capture_timestamp": "2026-02-03T21:08:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00088",
+    "amount": 22802.2,
+    "currency": "BRL",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-10T13:52:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00089",
+    "amount": 16614772.01,
+    "currency": "COP",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-03T10:57:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00090",
+    "amount": 9012393.75,
+    "currency": "COP",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-11T14:17:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00091",
+    "amount": 12542433.77,
+    "currency": "COP",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-02-03T04:04:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00092",
+    "amount": 25885.76,
+    "currency": "MXN",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-02-07T11:05:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00093",
+    "amount": 22046.71,
+    "currency": "MXN",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-24T13:04:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00094",
+    "amount": 6631010.19,
+    "currency": "COP",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-02T03:03:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00095",
+    "amount": 7801746.72,
+    "currency": "COP",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-14T02:01:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00096",
+    "amount": 9550055.06,
+    "currency": "COP",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-28T03:48:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00097",
+    "amount": 10773646.94,
+    "currency": "COP",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-10T03:57:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00098",
+    "amount": 4404044.26,
+    "currency": "COP",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-05T03:01:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00099",
+    "amount": 16061.25,
+    "currency": "BRL",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-22T11:53:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00100",
+    "amount": 93170.52,
+    "currency": "MXN",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-16T13:58:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00101",
+    "amount": 424.32,
+    "currency": "USD",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-21T04:55:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00102",
+    "amount": 4872.01,
+    "currency": "MXN",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-29T09:13:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00103",
+    "amount": 8116.58,
+    "currency": "BRL",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-27T06:48:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00104",
+    "amount": 20041.99,
+    "currency": "BRL",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-16T05:47:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00105",
+    "amount": 4999.54,
+    "currency": "USD",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-24T23:41:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00106",
+    "amount": 3772.39,
+    "currency": "USD",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-23T22:53:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00107",
+    "amount": 22737.91,
+    "currency": "MXN",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-12T23:07:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00108",
+    "amount": 44231.73,
+    "currency": "MXN",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-31T03:10:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00109",
+    "amount": 3890.07,
+    "currency": "USD",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-28T16:06:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00110",
+    "amount": 4644.79,
+    "currency": "USD",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-13T07:58:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00111",
+    "amount": 18830582.56,
+    "currency": "COP",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-18T15:37:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00112",
+    "amount": 3487.48,
+    "currency": "USD",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-02-13T14:38:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00113",
+    "amount": 1739.28,
+    "currency": "USD",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-12T15:23:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00114",
+    "amount": 328.34,
+    "currency": "BRL",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-05T07:06:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00115",
+    "amount": 15263.15,
+    "currency": "BRL",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-21T22:27:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00116",
+    "amount": 14791.5,
+    "currency": "BRL",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-05T01:29:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00117",
+    "amount": 7752.25,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-19T02:17:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00118",
+    "amount": 71320.2,
+    "currency": "MXN",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-10T10:42:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00119",
+    "amount": 713.08,
+    "currency": "BRL",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-23T04:31:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00120",
+    "amount": 19153.03,
+    "currency": "BRL",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-27T08:56:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00121",
+    "amount": 13350.09,
+    "currency": "BRL",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-23T13:05:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00122",
+    "amount": 9781785.38,
+    "currency": "COP",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-13T21:30:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00123",
+    "amount": 15862798.71,
+    "currency": "COP",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-27T23:14:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00124",
+    "amount": 29158.95,
+    "currency": "MXN",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-31T03:30:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00125",
+    "amount": 10226.45,
+    "currency": "BRL",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-29T12:22:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00126",
+    "amount": 7376.29,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-20T13:46:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00127",
+    "amount": 2891.32,
+    "currency": "BRL",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-13T20:11:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00128",
+    "amount": 70193.58,
+    "currency": "MXN",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-02-09T13:48:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00129",
+    "amount": 23532.74,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-28T01:14:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00130",
+    "amount": 28785.19,
+    "currency": "MXN",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-20T19:17:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00131",
+    "amount": 2769.03,
+    "currency": "USD",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-11T15:55:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00132",
+    "amount": 4364.24,
+    "currency": "USD",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-27T13:30:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00133",
+    "amount": 6827304.53,
+    "currency": "COP",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-26T04:55:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00134",
+    "amount": 4111.47,
+    "currency": "USD",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-05T09:04:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00135",
+    "amount": 762.88,
+    "currency": "USD",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-28T09:05:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00136",
+    "amount": 2792.57,
+    "currency": "USD",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-10T06:38:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00137",
+    "amount": 73713.32,
+    "currency": "MXN",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-03T15:58:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00138",
+    "amount": 20647.5,
+    "currency": "BRL",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-28T10:36:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00139",
+    "amount": 3050.11,
+    "currency": "USD",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-24T06:40:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00140",
+    "amount": 15858.76,
+    "currency": "BRL",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-25T15:11:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00141",
+    "amount": 786.88,
+    "currency": "USD",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-03T15:44:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00142",
+    "amount": 5839360.59,
+    "currency": "COP",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-27T17:45:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00143",
+    "amount": 1442171.61,
+    "currency": "COP",
+    "processor": "adyen",
+    "capture_timestamp": "2026-01-26T16:50:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00144",
+    "amount": 40445.69,
+    "currency": "MXN",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-25T00:41:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00145",
+    "amount": 19843.48,
+    "currency": "BRL",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-17T23:10:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00146",
+    "amount": 10553.7,
+    "currency": "BRL",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-13T19:19:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00147",
+    "amount": 12023.82,
+    "currency": "BRL",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-03T02:05:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00148",
+    "amount": 4447.67,
+    "currency": "USD",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-02-10T04:16:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00149",
+    "amount": 1148.48,
+    "currency": "USD",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-09T11:01:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00150",
+    "amount": 3816.73,
+    "currency": "USD",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-04T11:33:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00151",
+    "amount": 4376.2,
+    "currency": "BRL",
+    "processor": "payu",
+    "capture_timestamp": "2026-02-03T00:40:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00152",
+    "amount": 2352.7,
+    "currency": "USD",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-29T15:20:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00153",
+    "amount": 31398.37,
+    "currency": "MXN",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-01-27T17:42:00+00:00",
+    "status": "pending"
+  },
+  {
+    "transaction_id": "TXN-00154",
+    "amount": 2276.86,
+    "currency": "USD",
+    "processor": "dlocal",
+    "capture_timestamp": "2026-01-26T04:20:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00155",
+    "amount": 17300913.47,
+    "currency": "COP",
+    "processor": "stripe",
+    "capture_timestamp": "2026-02-12T11:55:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00156",
+    "amount": 8276686.46,
+    "currency": "COP",
+    "processor": "adyen",
+    "capture_timestamp": "2026-02-06T12:23:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00157",
+    "amount": 12515666.67,
+    "currency": "COP",
+    "processor": "stripe",
+    "capture_timestamp": "2026-01-24T02:17:00+00:00",
+    "status": "failed"
+  },
+  {
+    "transaction_id": "TXN-00158",
+    "amount": 88136.15,
+    "currency": "MXN",
+    "processor": "mercadopago",
+    "capture_timestamp": "2026-02-14T05:31:00+00:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TXN-00159",
+    "amount": 4865.87,
+    "currency": "USD",
+    "processor": "payu",
+    "capture_timestamp": "2026-01-25T15:45:00+00:00",
+    "status": "completed"
+  }
+]
