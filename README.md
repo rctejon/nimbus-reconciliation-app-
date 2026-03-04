@@ -2,6 +2,16 @@
 
 Automated settlement reconciliation for Nimbus Logistics -- matches transactions and payouts against settlement records using exact ID and fuzzy amount/date matching, with multi-currency support, duplicate detection, and discrepancy alerting.
 
+## Live Demo
+
+The API is deployed and available at:
+
+- **Base URL:** https://nimbus-reconciliation-app.onrender.com
+- **Swagger UI:** https://nimbus-reconciliation-app.onrender.com/docs
+- **ReDoc:** https://nimbus-reconciliation-app.onrender.com/redoc
+
+> Note: The free tier spins down after ~15 min of inactivity. The first request may take ~30s to wake up.
+
 ---
 
 ## Prerequisites
@@ -12,7 +22,7 @@ Automated settlement reconciliation for Nimbus Logistics -- matches transactions
 ## Quick Start
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/rctejon/nimbus-reconciliation-app-.git
 cd nimbus-reconciliation-app-
 python -m venv venv
 source venv/bin/activate
